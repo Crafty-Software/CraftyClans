@@ -6,6 +6,7 @@
 bin/
 .classpath
 target/
+build/
 
 # Compiled class file
 *.class
