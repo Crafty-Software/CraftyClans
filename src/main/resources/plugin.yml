@@ -1,0 +1,6 @@
+name: CraftyClans
+version: '${version}'
+main: com.github.craftysoftware.craftyclans.CraftyClans
+authors: [hapily, hotpocket184]
+description: A lightweight yet customizable team solution.
+website: https://github.com/Crafty-Software
